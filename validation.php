@@ -1,7 +1,7 @@
 <?php
 
 $nome = $_POST['nome'];
-$to      = 'cleber.fidelles@qi.edu.br';
+$to      = 'cleber.fidelles@gmail.com';
 $subject = 'Novo contato';
 $message = $nome;
 $headers = 'From: webmaster@example.com' . "\r\n" .
